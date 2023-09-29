@@ -1,4 +1,17 @@
 ### Boas vindas ao meu perfil 🫀
 
-Meu nome é Rafaeli Tauffer
+**Meu nome é Rafaeli Tauffer**
 
+- Estou estudando no Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
+
+  ### Você entrar em contato comigo 📫
+
+  rafaeli.tauffer@escola.pr.gov.br
+
+  @rafa._.tauffer ig
+  
+  
+
+  
